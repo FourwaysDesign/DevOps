@@ -6,7 +6,9 @@ package de.fourways.devops;
 
 /**
  *
- * @author sascha
+ * @author Sascha Beck
+ * Starting point of the Application 
+ * 
  */
 public class Main {
     
